@@ -8,7 +8,7 @@ A responsive user interface clone of **X (formerly Twitter)**, built using **Tai
 
 **Live Preview:** [Click here to view](https://your-live-demo-link.com)
 
-![Screenshot - Desktop](screenshots/Screenshot%202025-08-03%20205944.png)
+![Screenshot - Desktop](/Screenshot%202025-08-03%20205944.png)
 
 ---
 
