@@ -6,7 +6,7 @@ A responsive user interface clone of **X (formerly Twitter)**, built using **Tai
 
 ## 🚀 Demo
 
-**Live Preview:** [Click here to view](https://your-live-demo-link.com)
+**Live Preview:** [Click here to view](https://suzenkumar.github.io/-X-UI-Clone-TailWind-Css-/)
 
 ![Screenshot - Desktop](/Screenshot%202025-08-03%20205944.png)
 
